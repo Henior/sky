@@ -16,4 +16,9 @@ public class UserController {
     public User getSomeone(@PathVariable Long id){
         return userRepository.findOne(id);
     }
+
+    @GetMapping("movie/rest/{id}")
+    public User getSomeoneMovie(@PathVariable Long id){
+        return userRepository.findOne(id);
+    }
 }

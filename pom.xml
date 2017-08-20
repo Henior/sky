@@ -20,6 +20,7 @@
     <module>demo-provider-user</module>
     <module>demo-consumer-movie</module>
     <module>demo-eureka</module>
+    <module>demo-zuul</module>
   </modules>
 
   <dependencyManagement>

@@ -8,8 +8,6 @@
 		<artifactId>demo-parent</artifactId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
-
-	<groupId>com.example.registor</groupId>
 	<artifactId>demo-eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
